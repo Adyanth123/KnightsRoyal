@@ -1,0 +1,32 @@
+﻿KnightsRoyal Python Game Documentation
+Introduction:
+KnightsRoyal is an immersive Python game that plunges players into the heart of medieval combat. This documentation serves as a comprehensive guide to understanding the game's mechanics, installation process, usage instructions, and code structure.
+Code Structure Overview:
+* Imports: Necessary libraries for game development are imported.
+   * Pygame - Main Import, Used to help make the game
+   * Sys - Used to exit game
+   * Time - Used to measure time and cap FPS(Frame per Second)
+   * Random - Used to randomize things
+   * Math - Used to make quick calculations
+* Initialization: Pygame is initialized, and the game window is configured.
+* Button Class: Defines clickable buttons essential for user interaction.
+* Player Class: Encapsulates attributes and behaviors of the player character, including animations and combat mechanics.
+* HealthBar Class: Manages the display and update of health bars for player characters.
+* Drawing Functions: Functions responsible for rendering text and images onto the game screen.
+* Game Loop: The primary loop governing game mechanics, animations, and user input processing.
+Game Features:
+* Dynamic health bars provide real-time feedback on the status of both player characters.
+* Upgrades menu offers players the opportunity to enhance the knight's abilities through judicious coin expenditure.
+* Sine wave to make game more artistic
+
+
+
+
+
+
+Credits:
+* Game Development: [Adyanth Rao]
+Version History:
+* [1.0]: Initial release
+Conclusion:
+KnightsRoyal delivers immersive gaming experiences. This is the document providing all the information upon the game.
